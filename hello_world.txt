@@ -1,1 +1,2 @@
 Hello friends!
+I am learning to use Git with VSCode and understanding its commands. 
